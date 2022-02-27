@@ -1,2 +1,2 @@
-# jumpscare
+# funsite
 Scaring my friends
