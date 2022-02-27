@@ -1,0 +1,57 @@
+body {
+    background-color: blue;
+}
+
+#jumpScare {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 25%;
+    height: 600px;
+    width: 50%;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    margin: 0 0 20px;
+}
+
+h2 {
+    color: black;
+    display: inline-block;
+    font-size: 50px;
+}
+
+p {
+    display: inline-block;
+    margin: 30px;
+    font-size: 50px;
+}
+
+#score {
+    text-align: center;
+    margin: 50px;
+    display: block;
+}
+
+#btn {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.bait {
+    margin: 40px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+#yell {
+    display: none;
+}
